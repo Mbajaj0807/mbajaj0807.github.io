@@ -153,6 +153,8 @@ section {
   /* The unordered lists in the education section will have no list-style and will be displayed full-width. */
   list-style: none;
   max-width: 100%;
+  font-size: large;
+  font-weight: 700;
 
   /* The padding-left attribute has been commented out because it is not necessary. */
   /* padding-left: 0; */
